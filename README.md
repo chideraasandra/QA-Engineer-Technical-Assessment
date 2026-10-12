@@ -25,9 +25,9 @@ The Postman collection is included in the repository. Import the collection JSON
 
 API testing covered user creation, retrieval, updating, and deletion using the Swagger Petstore API.
 
-## Test Cases and Bug Reports
+## Exploratory Testing: Test Cases and Bug Reports
 
-The exploratory test cases, execution results, and identified defects are documented in the test case and bug report workbook linked in the assessment submission.
+The exploratory test cases, execution results, and identified defects are documented in the test case and bug report workbook linked in the assessment submission. They can also be viewed [here](Exploratory Testing Report).
 
 ## Framework Note
 
