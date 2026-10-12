@@ -29,7 +29,7 @@ API testing covered user creation, retrieval, updating, and deletion using the S
 
 The exploratory test cases, execution results, and identified defects are documented in the test case and bug report workbook linked in the assessment submission.
 
-Also, this is a summarized report on the exploratory test [Exploratory Testing Report](Exploratory-Testing-Report.pdf).
+Also, this is a summarized report on the exploratory test [Exploratory Testing Report](Exploratory%20Testing%20Report.pdf).
 
 ## Framework Note
 
